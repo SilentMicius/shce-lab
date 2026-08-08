@@ -1,0 +1,9 @@
+[project]
+name = "shce-lab"
+version = "0.1.0"
+description = "Spatial/Homing Communication Evolution Laboratory"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26"]
+
+[project.scripts]
+shce = "shce.cli:main"
