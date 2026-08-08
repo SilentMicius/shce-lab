@@ -1,0 +1,1 @@
+"""Core SHCE data structures."""
